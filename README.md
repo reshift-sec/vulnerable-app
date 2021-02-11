@@ -1,7 +1,7 @@
 # vulnerable-app & attacker-app
 There are two applications within this repository that were generated from the HotTowel Angular generator. The main one is the `vulnerable-app` which is found in the `/src` folder. This application was built intentionally built out with vulnerabilities to easily demonstrate how they are performed by an attacker. The secondary application is the `attacker-app` found in the `/attacker-app` folder and it was built out to assist in demonstrating an attacker's website that is exploiting the vulnerabilities in the `vulnerable-app`.
 
-## Requirements
+## Env Requirements
 1. Node.js v4.2.x
 2. NPM v3.10.x
 
